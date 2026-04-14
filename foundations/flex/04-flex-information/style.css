@@ -40,12 +40,10 @@ img {
   justify-content: center;
   width: 200px;
   flex-wrap: wrap;
-}
-
-.plant {
   text-align: center;
   align-self: flex-start;
 }
+
 
 .title-container {
   display: flex;
